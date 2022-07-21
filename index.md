@@ -6,7 +6,7 @@ layout: default
 
 ## Subtitle
 
-Some stuff in here including link to [about page](web/about.md) for other stuff.
+Some stuff in here including link to [about page](web/about.md) or [boo page](web/boo.md) for other stuff.
 
 
 <p align="center">
