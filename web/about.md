@@ -1,9 +1,7 @@
 ---
-title: ABOUT PAGE
-layout: template
-filename: about.md
+layout: default
 ---
 
-# A second page of stuff
+## Welcome to another page
 
-Bla, blah, blah...
+_yay_
