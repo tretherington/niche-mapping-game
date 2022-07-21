@@ -1,6 +1,7 @@
 ---
 title: ABOUT PAGE
 layout: template
+theme: jekyll-theme-minimal
 filename: about.md
 ---
 
