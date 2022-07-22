@@ -8,7 +8,7 @@ Our [project team](web/about.md) is developing a fun, educational, tabletop game
 
 ### Step 1
 
-You begin with a bag of data tokens.  These are *actual* data from collections available in the [Global Biodiversity Information Facility](https://www.gbif.org/).  In the picture you can see data for radiata pine (_Pinus radiata_) recorded in the Manaaki Whenua's [Allan Herbarium](https://www.landcareresearch.co.nz/tools-and-resources/collections/allan-herbarium/), but there is nothing to stop using data for any species in any available collection.
+You begin with a bag of data tokens.  These are **actual** data from collections available in the [Global Biodiversity Information Facility](https://www.gbif.org/).  In the picture you can see data for radiata pine (_Pinus radiata_) recorded in the Manaaki Whenua's [Allan Herbarium](https://www.landcareresearch.co.nz/tools-and-resources/collections/allan-herbarium/), but there is nothing to stop using data for any species in any available collection.
 
 ![Alt text](web/images/1-data.png)
 
@@ -26,7 +26,7 @@ You then continue to collect data to build up a sample, and then you put an elas
 
 ### Step 4
 
-At this point you should note the letters on the niche board.  These relate to clusters of *actual* climatic conditions we find here in Aotearoa New Zealand.  You can see these letters on this map of the central Te Ika a Maui North Island.
+At this point you should note the letters on the niche board.  These relate to clusters of **actual** climatic conditions we find here in Aotearoa New Zealand.  You can see these letters on this map of the central Te Ika-a-Māui North Island.
 
 ![Alt text](web/images/4-climate-map.png)
 
