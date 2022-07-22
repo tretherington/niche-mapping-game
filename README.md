@@ -1,1 +1,1 @@
-An empty project to explore GitHub pages creation
+An empty project to host a GitHub pages website.
